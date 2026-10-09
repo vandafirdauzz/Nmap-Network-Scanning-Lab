@@ -1,1 +1,8 @@
+### 1. Host Discovery
 
+Command :
+'nmap -sn 10.10.10.16/24'
+
+gambar
+
+**Penjelasan:**
